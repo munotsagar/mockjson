@@ -40,35 +40,6 @@
             "subCategoryChildDetails": null
           }
         ]
-      },
-      {
-        "subCategoryId": "619f0da1-fe7f-43bb-bde1-b796bdad315e",
-        "categoryId": "ec1b102b-ea96-4d21-a491-90e612208ce5",
-        "subCategoryName": "Labor Force and Talent",
-        "parentId": "00000000-0000-0000-0000-000000000000",
-        "subCategoryChildDetails": [
-          {
-            "subCategoryId": "8e4ef0c4-bfe1-4627-ba65-12ba54e07bbd",
-            "categoryId": "ec1b102b-ea96-4d21-a491-90e612208ce5",
-            "subCategoryName": "EY headcount",
-            "parentId": "619f0da1-fe7f-43bb-bde1-b796bdad315e",
-            "subCategoryChildDetails": null
-          },
-          {
-            "subCategoryId": "3b493279-c417-4d7e-a1d2-9d79712328c9",
-            "categoryId": "ec1b102b-ea96-4d21-a491-90e612208ce5",
-            "subCategoryName": "Availability of labor",
-            "parentId": "619f0da1-fe7f-43bb-bde1-b796bdad315e",
-            "subCategoryChildDetails": null
-          },
-          {
-            "subCategoryId": "a1e907d0-9661-4e63-8bb6-dd92f847e638",
-            "categoryId": "ec1b102b-ea96-4d21-a491-90e612208ce5",
-            "subCategoryName": "Employment breakdown",
-            "parentId": "619f0da1-fe7f-43bb-bde1-b796bdad315e",
-            "subCategoryChildDetails": null
-          }
-        ]
       }
     ]
   }
